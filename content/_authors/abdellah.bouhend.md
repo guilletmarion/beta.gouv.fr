@@ -16,7 +16,7 @@ missions:
     startups:
       - france.nation.verte.agir
 startups:
-  - la-bonne-alternance
+  - france.nation.verte.agir
 badges:
   - segur
 competences: []
